@@ -11,7 +11,7 @@
     "node": ">=14.15.0"
   },
   "dependencies": {
-    "@apollo/server": "^4.4.1",
+    "@apollo/server": "^4.7.4",
     "@as-integrations/aws-lambda": "^2.0.1",
     "@middy/core": "^3.4.0",
     "@middy/http-json-body-parser": "^3.4.0",
